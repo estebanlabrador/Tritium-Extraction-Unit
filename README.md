@@ -1,13 +1,21 @@
-# Tritium-Extraction-Unit
-As part of a team of three for our UC Berkeley Capstone Project, we designed a tritium extraction system for fusion reactors under the guidance of Dr. Guanyu Su. The project was entirely simulation-based and involved modeling with Star-CCM+ and SolidWorks. None of us had used Star-CCM+ prior to this project.
+## 🔬 Capstone Project – Tritium Extraction System for Fusion Reactors
 
-Together, we developed a realistic model simulating the transport of tritium from FLiBe to the vacuum, including permeation through metallic walls. After jointly building the core model, I led a segment length sensitivity study to analyze how heat exchanger geometry influences tritium extraction efficiency.
+As part of a three-member team for our UC Berkeley Capstone Project, we designed a **tritium extraction system** for compact fusion reactors, under the guidance of **Dr. Guanyu Su**. The project was entirely simulation-based and utilized **Star-CCM+** and **SolidWorks**—software none of us had used before this project.
 
-Through this project, I gained hands-on experience in meshing, defining custom boundary conditions using user-defined equations, and working with passive scalars to simulate species transport.
-This is our One Pager
+Together, we developed a realistic model simulating **tritium transport from FLiBe to the vacuum**, including **permeation through metallic walls**. After building the core model collaboratively, I led a **sensitivity study** on segment length to analyze how **heat exchanger geometry affects tritium extraction efficiency**.
+
+Through this experience, I gained practical skills in:
+- **Meshing complex geometries**
+- **Defining custom boundary conditions** using user-defined equations
+- Using **passive scalars** to simulate species transport in a multiphysics environment
+
+### 🧾 One-Pager
 ![Screenshot](onepager.png)
 
-We went to the ANS Student Conference 2025 to present our work.
-[here](./ANS.pdf).
-## 📄 Report
-The full project report can be found [here](./Project_Tritium_Extraction_FinalReport_2025.pdf).
+### 🎤 Conference Presentation
+We presented our work at the **ANS Student Conference 2025**.  
+📎 [View the presentation slides](./ANS.pdf)
+
+### 📄 Full Report
+The complete project report is available [here](./Project_Tritium_Extraction_FinalReport_2025.pdf).
+
