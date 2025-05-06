@@ -8,6 +8,6 @@ This is our One Pager
 ![Screenshot](onepager.png)
 
 We went to the ANS Student Conference 2025 to present our work.
-[here](./ANS%Conference%2025%Presentation.pptx.pdf).
+[here](./ANS.pdf).
 ## 📄 Report
 The full project report can be found [here](./Project_Tritium_Extraction_FinalReport_2025.pdf).
