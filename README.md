@@ -1,6 +1,6 @@
 ## 🔬 Capstone Project – Tritium Extraction System for Fusion Reactors
 
-As part of a three-member team for our UC Berkeley Capstone Project, we designed a **tritium extraction system** for compact fusion reactors, under the guidance of **Dr. Guanyu Su**. The project was entirely simulation-based and utilized **Star-CCM+** and **SolidWorks**—software none of us had used before this project.
+As part of a three-member team for our UC Berkeley Capstone Project, we designed a **tritium extraction system** for compact fusion reactors, under the guidance of **Dr. Guanyu Su**. The project was entirely simulation-based and utilized **Star-CCM+** and **SolidWorks**. While we were already experienced in **SolidWorks**, this was our first time working with **Star-CCM+**.
 
 Together, we developed a realistic model simulating **tritium transport from FLiBe to the vacuum**, including **permeation through metallic walls**. After building the core model collaboratively, I led a **sensitivity study** on segment length to analyze how **heat exchanger geometry affects tritium extraction efficiency**.
 
