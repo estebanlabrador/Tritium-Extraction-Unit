@@ -74,6 +74,13 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 2. **Material Studies:** Explore alternative materials like Vanadium, Haynes alloys, etc.
 3. **Advanced Modeling:** Implement K-Ω turbulence model and transient boundary conditions.
 
+
+---
+
+### 🎤 Conference Presentation
+We presented our work at the **ANS Student Conference 2025**.  
+📎 [View the presentation slides](./ANS.pdf)
+
 ---
 
 ## 📄 Full Report
