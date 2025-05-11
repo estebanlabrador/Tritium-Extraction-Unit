@@ -63,7 +63,7 @@ We presented our work at the **ANS Student Conference 2025**.
 
 ## 📄 Full Report
 
-[📘 Download Final Report (PDF)](./Project_Tritium_Extraction_FinalReport_2025%20(1).pdf)
+[📘 View Final Report (PDF)](./Project_Tritium_Extraction_FinalReport_2025.pdf)
 
 ---
 
