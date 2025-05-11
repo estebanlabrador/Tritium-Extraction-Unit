@@ -1,4 +1,4 @@
-# 🔬 Optimizing Tritium Recovery Using Commercial Heat Exchangers (PCHE)
+# 🔬 Optimizing Tritium Recovery Using Commercial Heat Exchangers 
 
 **Contributors:** Esteban Labrador, Sean Shitamoto, Sascha Turovskiy  
 **Advisors:** Guanyu Su, Ben Li  
