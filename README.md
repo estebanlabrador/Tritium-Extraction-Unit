@@ -47,8 +47,11 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 ## 🖼️ Results from CFD (Star-CCM+)
 
-![Final Engine Assembly](./Assembly.png)
+![Segment Length Turbulent Flow](./seg_lengths.png)
 *Figure: Top-down cut-section view of the turbulent velocity profiles in 2.375 mm (top-left), 3.56 mm (top-right), 4.75 mm (bottom-left) and 9.56 mm (bottom-right) segment length channels.*
+
+![Segment Length MTC comparison](./MTC_seg_lengths.png)
+*Figure: Mass transfer coefficient (MTC) as a function of distance along the channels for varying channel length segments and flow rates.*
 
 ---
 
