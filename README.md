@@ -41,7 +41,6 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 - **Best Average MTC (Turbulent, 60° Bend):** 1.43×10⁻³ m/s  
 - **Lowest Pressure Drop (180° Bend, Laminar):** 1.33×10⁷ Pa/(m³/s)
-- **Tritium Concentration Used:** 1.52×10⁻⁴ mol/m³  
 - **CFD Model Verified with Mesh Sensitivity and Interface Conditions**
 
 ---
@@ -58,12 +57,6 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 ### 🎤 Conference Presentation
 We presented our work at the **ANS Student Conference 2025**.  
 📎 [View the presentation slides](./ANS.pdf)
-
----
-
-## 📄 Full Report
-
-[📘 View Final Report (PDF)](./Project_Tritium_Extraction_FinalReport_2025.pdf)
 
 ---
 
