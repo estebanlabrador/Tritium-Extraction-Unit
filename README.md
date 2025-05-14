@@ -25,12 +25,19 @@ Design and optimize a tritium extraction system for fusion reactors using **comm
 
 <p align="center">
   <img src="./zigzag.png" alt="Segment Length Turbulent Flow" width="45%" />
+</p>
+
+<p align="center">
+  <em>(a) Zigzag channel with 1 hot channel (red) and a vacuum channel on bottom (blue). (b) Geometric dimensions of the default zigzag channel  
+ </em>
+</p>
+
+<p align="center">
   <img src="./BCs.png" alt="Segment Length MTC Comparison" width="45%" />
 </p>
 
 <p align="center">
-  <em>Left: (a) Zigzag channel with 1 hot channel (red) and a vacuum channel on bottom (blue). (b) Geometric dimensions of the default zigzag channel  
-  Right: Geometric values and BCs which include periodic BCs (in green and purple), partial pressure and flux continuity BC at the FLiBe-316SS interface, and a zero tritium concentration BC at the vacuum-316SS interface.</em>
+  <em>Right: Geometric values and BCs which include periodic BCs (in green and purple), partial pressure and flux continuity BC at the FLiBe-316SS interface, and a zero tritium concentration BC at the vacuum-316SS interface.</em>
 </p>
 ---
 
