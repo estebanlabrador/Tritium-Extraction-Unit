@@ -17,28 +17,30 @@ Design and optimize a tritium extraction system for fusion reactors using **comm
 
 ## ⚙️ Technical Overview
 
-- **Physics Modeled:** Passive scalar tritium diffusion through FLiBe and 316SS into a vacuum.
+- **Physics Modeled:** Passive scalar tritium diffusion through FLiBe and 316SS into a vacuum with the boundary conditions shown in Figure 1
 - **Simulation Platform:** Siemens STAR-CCM+
-- **Geometry:** Zigzag microchannel PCHE design
+- **Geometry:** Zigzag microchannel PCHE design shown in Figure 2
 - **Key Performance Metric:** Mass Transfer Coefficient (MTC) in [m/s]
 - **Simulation Regimes:** Laminar and Turbulent
-
-<p align="center">
-  <img src="./zigzag.png" alt="Segment Length Turbulent Flow" width="45%" />
-</p>
-
-<p align="center">
-  <em>(a) Zigzag channel with 1 hot channel (red) and a vacuum channel on bottom (blue). (b) Geometric dimensions of the default zigzag channel  
- </em>
-</p>
 
 <p align="center">
   <img src="./BCs.png" alt="Segment Length MTC Comparison" width="45%" />
 </p>
 
 <p align="center">
-  <em>Geometric values and BCs which include periodic BCs (in green and purple), partial pressure and flux continuity BC at the FLiBe-316SS interface, and a zero tritium concentration BC at the vacuum-316SS interface.</em>
+  <em>Figure 1: Geometric values and BCs which include periodic BCs (in green and purple), partial pressure and flux continuity BC at the FLiBe-316SS interface, and a zero tritium concentration BC at the vacuum-316SS interface.</em>
 </p>
+
+<p align="center">
+  <img src="./zigzag.png" alt="Segment Length Turbulent Flow" width="45%" />
+</p>
+
+<p align="center">
+  <em>Figure 2: (a) Zigzag channel with 1 hot channel (red) and a vacuum channel on bottom (blue). (b) Geometric dimensions of the default zigzag channel  
+ </em>
+</p>
+
+
 ---
 
 ## 📈 Parametric Studies Conducted
