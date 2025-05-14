@@ -55,8 +55,8 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 
 <p align="center">
-  <img src="./seg_lengths.png" alt="Segment Length Turbulent Flow" width="45%" />
-  <img src="./MTC_seg_lengths.png" alt="Segment Length MTC Comparison" width="45%" />
+  <img src="./seg_lengths.png" alt="Segment Length Turbulent Flow" width="40%" />
+  <img src="./MTC_seg_lengths.png" alt="Segment Length MTC Comparison" width="55%" />
 </p>
 
 <p align="center">
