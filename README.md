@@ -47,7 +47,7 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 ## 🖼️ Results from CFD (Star-CCM+)
 
-![Segment Length Turbulent Flow](./seg_length.png)
+![Segment Length Turbulent Flow](./seg_lengths.png)
 *Figure: Top-down cut-section view of the turbulent velocity profiles in 2.375 mm (top-left), 3.56 mm (top-right), 4.75 mm (bottom-left) and 9.56 mm (bottom-right) segment length channels.*
 
 ![Segment Length MTC comparison](./MTC_seg_lengths.png)
@@ -55,7 +55,7 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 
 <p align="center">
-  <img src="./seg_length.png" alt="Segment Length Turbulent Flow" width="45%" />
+  <img src="./seg_lengths.png" alt="Segment Length Turbulent Flow" width="45%" />
   <img src="./MTC_seg_lengths.png" alt="Segment Length MTC Comparison" width="45%" />
 </p>
 
