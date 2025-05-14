@@ -37,7 +37,7 @@ Design and optimize a tritium extraction system for fusion reactors using **comm
 </p>
 
 <p align="center">
-  <em>Right: Geometric values and BCs which include periodic BCs (in green and purple), partial pressure and flux continuity BC at the FLiBe-316SS interface, and a zero tritium concentration BC at the vacuum-316SS interface.</em>
+  <em>Geometric values and BCs which include periodic BCs (in green and purple), partial pressure and flux continuity BC at the FLiBe-316SS interface, and a zero tritium concentration BC at the vacuum-316SS interface.</em>
 </p>
 ---
 
