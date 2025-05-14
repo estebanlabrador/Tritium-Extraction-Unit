@@ -1,10 +1,11 @@
 # 🔬 Optimizing Tritium Recovery Using Commercial Heat Exchangers 
 
-**Capstone Project** of my **Master of Engineering** in **Mechannical Engineering** at **UC Berkeley**.
+**Capstone Project** of my **Master of Engineering** in **Mechanical Engineering** at **UC Berkeley**  
 **Contributors:** Esteban Labrador, Sean Shitamoto, Sascha Turovskiy  
 **Advisors:** Guanyu Su, Ben Li  
-**Date:** August 2024 - May 2025  
+**Date:** August 2024 – May 2025  
 **Tools Used:** STAR-CCM+, SolidWorks, CFD Modeling, Custom Passive Scalar Transport Models
+
 
 ---
 
