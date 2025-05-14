@@ -45,8 +45,9 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 ---
 
-## 🖼️ Results from CFD (Star-CCM+)
+## 🖼️ Results of the Segment Length study (Star-CCM+)
 
+After collaboratively creating a CFD model in Star-CCM+, I conducted an analysis of the segment length parameter obtaining the following results:
 <p align="center">
   <img src="./seg_lengths.png" alt="Segment Length Turbulent Flow" width="45%" />
   <img src="./MTC_seg_lengths.png" alt="Segment Length MTC Comparison" width="45%" />
