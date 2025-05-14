@@ -47,7 +47,7 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 ## 🖼️ Results of the Segment Length study (Star-CCM+)
 
-After collaboratively creating a CFD model in Star-CCM+, I conducted an analysis of the segment length parameter obtaining the following results:
+After collaboratively creating a CFD model in **Star-CCM+**, I conducted an analysis on the effect of **channel segment length**. The following figures summarize the key results:
 <p align="center">
   <img src="./seg_lengths.png" alt="Segment Length Turbulent Flow" width="45%" />
   <img src="./MTC_seg_lengths.png" alt="Segment Length MTC Comparison" width="45%" />
@@ -57,6 +57,11 @@ After collaboratively creating a CFD model in Star-CCM+, I conducted an analysis
   <em>Left: Top-down cut-section view of the turbulent velocity profiles in 2.375 mm (top-left), 3.56 mm (top-right), 4.75 mm (bottom-left) and 9.56 mm (bottom-right) segment length channels.  
   Right: Mass transfer coefficient (MTC) as a function of distance along the channels for varying channel length segments and flow rates.</em>
 </p>
+
+Despite a uniform inlet velocity of 15 m/s, the flow accelerates as it progresses through the narrowing and stretching segments of the channel. The top-view velocity profiles illustrate how turbulence evolves with segment length, while the accompanying plot tracks the variation in MTC along the channel length.
+
+Notably, **local maxima in MTC** align with regions where the flow undergoes sharp directional changes—particularly at the corners of the zigzag geometry—indicating intensified turbulence and vortex-driven mixing. Conversely, **lower MTC values** appear in regions where the flow becomes more streamlined along the walls. These findings suggest that **mass transfer enhancement is driven more by flow redirection and induced turbulence** than by direct wall impingement.
+
 
 ---
 
