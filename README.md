@@ -45,6 +45,13 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 
 ---
 
+## 🖼️ Results from CFD (Star-CCM+)
+
+![Final Engine Assembly](./Assembly.png)
+*Figure: Final assembled compressed air engine, fully operational after multi-phase development.*
+
+---
+
 ## 🔄 Next Steps
 
 1. **Experimental Validation:** Build a physical test rig using selected geometry.
