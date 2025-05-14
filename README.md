@@ -48,7 +48,7 @@ An optimal balance between MTC and pressure drop is critical. The **100° bend a
 ## 🖼️ Results from CFD (Star-CCM+)
 
 ![Final Engine Assembly](./Assembly.png)
-*Figure: Final assembled compressed air engine, fully operational after multi-phase development.*
+*Figure: Top-down cut-section view of the turbulent velocity profiles in 2.375 mm (top-left), 3.56 mm (top-right), 4.75 mm (bottom-left) and 9.56 mm (bottom-right) segment length channels.*
 
 ---
 
