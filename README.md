@@ -71,18 +71,11 @@ Notably, **local maxima in MTC** align with regions where the flow undergoes sha
 2. **Material Studies:** Explore alternative materials like Vanadium, Haynes alloys, etc.
 3. **Advanced Modeling:** Implement K-Ω turbulence model and transient boundary conditions.
 
-
 ---
 
 ### 🎤 Conference Presentation
 We presented our work at the **ANS Student Conference 2025**.  
 📎 [View the presentation slides](./ANS.pdf)
-
----
-
-## 🔗 References
-
-Includes foundational papers on tritium transport in FLiBe, heat exchanger design, and ARC fusion system integration. Full citations in the report.
 
 ---
 
